@@ -1,0 +1,9 @@
+C:/Users/Lenovo/Downloads/opus-1.4/opus-1.4/build/CMakeFiles/opus.dir
+C:/Users/Lenovo/Downloads/opus-1.4/opus-1.4/build/CMakeFiles/package.dir
+C:/Users/Lenovo/Downloads/opus-1.4/opus-1.4/build/CMakeFiles/package_source.dir
+C:/Users/Lenovo/Downloads/opus-1.4/opus-1.4/build/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Downloads/opus-1.4/opus-1.4/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Lenovo/Downloads/opus-1.4/opus-1.4/build/CMakeFiles/list_install_components.dir
+C:/Users/Lenovo/Downloads/opus-1.4/opus-1.4/build/CMakeFiles/install.dir
+C:/Users/Lenovo/Downloads/opus-1.4/opus-1.4/build/CMakeFiles/install/local.dir
+C:/Users/Lenovo/Downloads/opus-1.4/opus-1.4/build/CMakeFiles/install/strip.dir
